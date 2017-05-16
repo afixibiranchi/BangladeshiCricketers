@@ -5,10 +5,10 @@ After that , I have extracted HOG Features and trained using Support Vector Mach
 
 Below is the Test Predictions 
 
-[!alt text](https://raw.githubusercontent.com/sezan92/BangladeshiCricketers/master/Result.jpg)
+![alt text](https://raw.githubusercontent.com/sezan92/BangladeshiCricketers/master/Result.jpg)
 
 
 In the BanCricTF.py I have used the concept of Transfer Learning i.e. I have retrained the Inception model of Google Tensorflow using the Dataset . So I had to edit the retrain.py script from tensorflow examples. The link is given in the code. It's cross validation accuracy is 90% while the Test Accuracy is 87% . 
 
 Below is the Test Predictions
-[!alt text](https://raw.githubusercontent.com/sezan92/BangladeshiCricketers/master/TensorFlow.png)
+![alt text](https://raw.githubusercontent.com/sezan92/BangladeshiCricketers/master/TensorFlow.png)
